@@ -1,0 +1,9 @@
+body {
+    color: white;
+    background-color: #1d2630;
+}
+
+textarea {
+    resize: none;
+    height: 120px;
+}
